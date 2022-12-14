@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center_horizontal"
+    tools:context=".CreateActivity">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/edt_nama"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:hint="nama"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_series"
+        android:hint="seri"
+        android:layout_below="@+id/edt_nama"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_tahun"
+        android:hint="tahun"
+        android:layout_below="@+id/edt_series"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_harga"
+        android:hint="harga"
+        android:layout_below="@id/edt_tahun"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:gravity="left"
+        android:id="@+id/edt_desc"
+        android:hint="deskripsi"
+        android:layout_below="@+id/edt_harga"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60sp"
+        android:text="Submit"
+        android:id="@+id/submit"
+        android:layout_marginLeft="60dp"
+        android:layout_below="@id/edt_desc"/>
+
+
+</RelativeLayout>
