@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\layout_item_mahasiswa.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\layout\\item_mahasiswa.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\menu_menu_form.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\menu\\menu_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.firebasee.app-merged_res-33:/layout_activity_update.xml.flat",
+        "source": "com.example.firebasee.app-main-35:/layout/activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\layout_activity_create.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.example.firebasee.app-main-35:\\xml\\data_extraction_rules.xml"
+    }
+]
